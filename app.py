@@ -48,4 +48,7 @@ st.markdown(
       background: rgba(255,255,255,0.05); border: 1px solid var(--border); border-radius: 18px; padding: .9rem 1rem; margin-bottom: .6rem;
     }
     .small-muted { color: var(--muted) !important; font-size: 0.92rem; }
-    </style
+    </style>
+    """,
+    unsafe_allow_html=True
+)
